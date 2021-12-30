@@ -70,7 +70,7 @@ export const Home = ({ isDarkMode, location, isCelsius, setisCelsius }) => {
     event.preventDefault();
     const { value } = event.target;
     if (!value || Object.keys(selectedCity).length > 0) return;
-    const english = /^[A-Za-z0-9]*$/;
+    const english = /^[A-Za-z0-9 ]*$/;
     if (english.test(value)) {
       // use deBounce
       debouncedSave(value);

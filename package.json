@@ -1,6 +1,6 @@
 {
   "name": "hello-weather",
-  "homepage": "https://daniel-rosenbaum-il.github.io/h",
+  "homepage": "https://daniel-rosenbaum-il.github.io/hello-weather",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
