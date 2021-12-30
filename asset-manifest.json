@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/h/static/css/main.51cdf2f5.chunk.css",
-    "main.js": "/h/static/js/main.8205c29e.chunk.js",
-    "main.js.map": "/h/static/js/main.8205c29e.chunk.js.map",
-    "runtime-main.js": "/h/static/js/runtime-main.df8ad8c1.js",
-    "runtime-main.js.map": "/h/static/js/runtime-main.df8ad8c1.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/h/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.6714e848.chunk.js": "/h/static/js/2.6714e848.chunk.js",
-    "static/js/2.6714e848.chunk.js.map": "/h/static/js/2.6714e848.chunk.js.map",
-    "index.html": "/h/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/h/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.51cdf2f5.chunk.css.map": "/h/static/css/main.51cdf2f5.chunk.css.map",
-    "static/js/2.6714e848.chunk.js.LICENSE.txt": "/h/static/js/2.6714e848.chunk.js.LICENSE.txt",
-    "static/media/main.scss": "/h/static/media/sun2.3d0edbe3.jpg",
-    "static/media/icon15.9aac7942.png": "/h/static/media/icon15.9aac7942.png",
-    "static/media/icon16.02f6796a.png": "/h/static/media/icon16.02f6796a.png",
-    "static/media/icon17.4b8d4543.png": "/h/static/media/icon17.4b8d4543.png",
-    "static/media/icon41.da896071.png": "/h/static/media/icon41.da896071.png"
+    "main.css": "/hello-weather/static/css/main.da16e5be.chunk.css",
+    "main.js": "/hello-weather/static/js/main.8205c29e.chunk.js",
+    "main.js.map": "/hello-weather/static/js/main.8205c29e.chunk.js.map",
+    "runtime-main.js": "/hello-weather/static/js/runtime-main.d6388900.js",
+    "runtime-main.js.map": "/hello-weather/static/js/runtime-main.d6388900.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/hello-weather/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.6714e848.chunk.js": "/hello-weather/static/js/2.6714e848.chunk.js",
+    "static/js/2.6714e848.chunk.js.map": "/hello-weather/static/js/2.6714e848.chunk.js.map",
+    "index.html": "/hello-weather/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/hello-weather/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.da16e5be.chunk.css.map": "/hello-weather/static/css/main.da16e5be.chunk.css.map",
+    "static/js/2.6714e848.chunk.js.LICENSE.txt": "/hello-weather/static/js/2.6714e848.chunk.js.LICENSE.txt",
+    "static/media/main.scss": "/hello-weather/static/media/sun2.3d0edbe3.jpg",
+    "static/media/icon15.9aac7942.png": "/hello-weather/static/media/icon15.9aac7942.png",
+    "static/media/icon16.02f6796a.png": "/hello-weather/static/media/icon16.02f6796a.png",
+    "static/media/icon17.4b8d4543.png": "/hello-weather/static/media/icon17.4b8d4543.png",
+    "static/media/icon41.da896071.png": "/hello-weather/static/media/icon41.da896071.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.df8ad8c1.js",
+    "static/js/runtime-main.d6388900.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.6714e848.chunk.js",
-    "static/css/main.51cdf2f5.chunk.css",
+    "static/css/main.da16e5be.chunk.css",
     "static/js/main.8205c29e.chunk.js"
   ]
 }
