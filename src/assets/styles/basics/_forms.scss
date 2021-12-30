@@ -1,0 +1,51 @@
+.input-field {
+    max-width:280px;
+    min-width:180px;
+    position: relative;
+    width: 100%;
+    background-color:inherit;
+}
+
+.form-input {
+    height: 100%;
+    width: 100%;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: inherit;
+    color: inherit;
+    outline: none;
+    padding: 0.4rem;
+    background: none;
+    &.dark {
+        border-color: rgb(126, 28, 28);
+    }
+
+    &:hover {
+        border-color: rgb(185, 42, 42);
+    }
+    &:focus {
+        border-color: #e91515;
+    }
+}
+
+.form-label {
+    margin: 0;
+    position: absolute;
+    top: 0.4rem;
+    left: 0.4rem;
+    color: inherit;
+    padding: 0 0.5rem;
+    cursor: text;
+    transition: top 200ms ease-in, left 200ms ease-in, font-size 200ms ease-in;
+    background-color: $LightModeBGC;
+    &.dark{
+        background-color: $DarkModeBGC;
+    }
+}
+
+.form-input:focus ~ .form-label,
+.form-input:not(:placeholder-shown).form-input:not(:focus) ~ .form-label {
+    top: -0.5rem;
+    font-size: 0.65rem;
+    left: 0.2rem;
+}

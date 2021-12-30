@@ -1,0 +1,19 @@
+//SETUP
+@import "./setup/variables";
+
+//BASE
+@import "./basics/base";
+@import "./basics/forms";
+@import "./basics/helpers";
+
+//CMPS
+@import "./cmps/header";
+@import "./cmps/searched-city-list";
+@import "./cmps/searched-city-preview";
+@import "./cmps/selected-city";
+@import "./cmps/loader";
+@import "./cmps/footer";
+
+//VIEWS
+@import "./views/home";
+@import "./views/user-favorites";
